@@ -1,0 +1,12 @@
+body {
+	background-image:url(pic/background101.png);
+	background-size: 965px;
+}
+
+th,td,h1 {
+	font-family: arial;
+}
+
+table {
+	background: lightblue;
+}
